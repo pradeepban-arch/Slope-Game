@@ -1,0 +1,8 @@
+{
+  "name": "slope-game",
+  "version": "1.0.0",
+  "description": "Slope game",
+  "scripts": {
+    "build": "echo 'Static site - no build required'"
+  }
+}
