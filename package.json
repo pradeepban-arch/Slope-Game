@@ -1,9 +1,8 @@
 {
-  "name": "slope-game",
-  "version": "1.0.0",
-  "description": "Slope game",
-  "private": true,
   "scripts": {
-    "build": "exit 0"
+    "start": "servor --reload"
+  },
+  "dependencies": {
+    "servor": "^4.0.2"
   }
 }
